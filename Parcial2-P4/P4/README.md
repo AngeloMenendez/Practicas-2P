@@ -2,19 +2,19 @@
 ## EVIDENCIAS
 
 1.UBICAR LA IP DE MI COMPAÑERO-CON LA ENTIDAD MAESTRA
-![1](/Evidencias-P4/1.jpg)
+![1](/Parcial2-P4/Evidencias-P4/1.jpg)
 
 2.SERVIDOR INICIADO CON LA LIBRERIA AXIOS
-![2](/Evidencias-P4/2.jpg)
+![2](/Parcial2-P4/Evidencias-P4/2.jpg)
 
 3.SERVIDOR INICIADO CON LA LIBRERIA KY
-![3](/Evidencias-P4/3.jpg)
+![3](/Parcial2-P4/Evidencias-P4/3.jpg)
 
 4.POST DE LA API TUTOR
-![4](/Evidencias-P4/4.jpg)
+![4](/Parcial2-P4/Evidencias-P4/4.jpg)
 
 5.GET DE LA API TUTOR
-![5](/Evidencias-P4/5.jpg)
+![5](/Parcial2-P4/Evidencias-P4/5.jpg)
 
 6.GET DE LA API MAESTRA-TUTORIA
-![6](/Evidencias-P4/6.jpg)
+![6](/Parcial2-P4/Evidencias-P4/6.jpg)
